@@ -1,5 +1,5 @@
 return {
-    [] = true, -- Tu UserId
-    [] = true, -- Amigo
+    [1324424400] = true,
+    [] = true,
     [] = true
 }
